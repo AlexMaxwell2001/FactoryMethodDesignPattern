@@ -1,0 +1,9 @@
+<svg width="400" height="400" version="1.1" xmlns="http://www.w3.org/2000/svg">
+	<circle id="3610" cx="137" cy="60" r="49" style="stroke:red;stroke-width:5;fill:transparent;"/>
+	<rect id="6373" x="18" y="34" width="16" height="156" style="stroke:black;stroke-width:5;fill:transparent;"/>
+	<ellipse id="1367" cx="152" cy="60" rx="133" ry="8" style="stroke:red;stroke-width:10;fill:transparent;"/>
+	<line id="7230" x1="62" x2="138" y1="173" y2="148" style="stroke:orange;stroke-width:5;"/>
+	<polyline id="8847" points=" 148, 16 42, 93" style="stroke:orange;stroke-width:5;fill:transparent;"/>
+	<polygon id="2663" points=" 12, 148 181, 176 71, 136" style="stroke:green;stroke-width:5;fill:transparent;"/>
+	<path id="4059" d=" M40,171 Q5,175 185,167 T112" style="stroke:blue;stroke-width:5;fill:none;"/>
+</svg>
